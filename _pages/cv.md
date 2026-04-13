@@ -36,16 +36,6 @@ Research Projects
   - Core researcher
 - National Natural Science Foundation of China, Young Scientists Fund (71701030), Road congestion pricing with negative land-use effects, 2018 to 2020
   - Major participant
-- Shandong Provincial Key R&D Program (2023CXPT005), Machine learning-based urban traffic signal optimization algorithm and platform, 2023 to 2026
-  - Major participant
-
-Skills
-======
-- Transportation simulation and modeling: TRANUS, TransCAD
-- Programming and optimization: Python, R, SQL, Gurobi
-- Spatial analysis: ArcGIS, QGIS
-- Environmental assessment: MOVES, AERMOD, BenMAP
-- Languages: CET-4, CET-6, ACTFL OPIc English
 
 Honors and Awards
 ======
