@@ -24,11 +24,11 @@ repository               : "LiuAo-Web/LiuAo-Web.github.io"
 author:
   # Biographic information
   avatar           : "ao-liu-profile.jpeg"
-  name             : "刘骜"
+  name             : "刘骜 (Liu Ao)"
   pronouns         : # example: "she/her"  
-  bio              : "讲师，交通工程学院，淮安大学"
-  location         : #
-  employer         : #
+  bio              : "讲师，博士"
+  location         : "江苏省淮安市"
+  employer         : "淮安大学"
   uri              : # URL
   email            : "liu_ao@mail.dlut.edu.cn"
 
