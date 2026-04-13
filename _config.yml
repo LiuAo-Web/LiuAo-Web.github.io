@@ -7,12 +7,12 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "zh_CN"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Ao Liu"
+title                    : "刘骜"
 title_separator          : "-"
-name                     : &name "Ao Liu"
-description              : &description "Academic website of Ao Liu, a PhD candidate studying shared autonomous vehicles, land use-transport interaction, and urban sustainability."
+name                     : &name "刘骜"
+description              : &description "刘骜的个人主页"
 url                      : https://liuao-web.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,25 +24,25 @@ repository               : "LiuAo-Web/LiuAo-Web.github.io"
 author:
   # Biographic information
   avatar           : "ao-liu-profile.jpeg"
-  name             : "Ao Liu"
+  name             : "刘骜"
   pronouns         : # example: "she/her"  
-  bio              : "PhD candidate in Municipal Engineering working on shared autonomous vehicles, integrated land use-transport planning, and urban sustainability."
-  location         : "Tokyo, Japan / Dalian, China"
-  employer         : "Dalian University of Technology"
+  bio              : "讲师，交通工程学院，淮安大学"
+  location         : #
+  employer         : #
   uri              : # URL
   email            : "liu_ao@mail.dlut.edu.cn"
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=OW39ywoAAAAJ&hl=zh-CN"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            :
   semantic         : # URL
   ssrn             : # URL
   pubmed           :
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Ao-Liu-23?ev=hdr_xprf&_sg=oJaP5bYqUweJ5bx2Mq-C-W-eQRKSmPeq62MTIY09zUKLyY74ZuvkZQGgWNTWe9m2--WzqRXhSbVUNAphtRRnagjB"
   scopus           : # URL
   zotero           : # URL
 
