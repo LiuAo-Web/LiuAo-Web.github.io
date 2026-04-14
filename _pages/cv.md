@@ -13,17 +13,6 @@ Download
 ======
 Download my CV in [PDF](/files/Ao_Liu_CV.pdf) or [DOCX](/files/Ao_Liu_CV.docx).
 
-Education
-======
-- PhD Candidate in Municipal Engineering, Dalian University of Technology, 2022 to 2026
-  - Advisor: Prof. Shaopeng Zhong
-- Visiting Doctoral Researcher in Urban Transport, University of Tokyo, 2025 to 2026
-  - Supervisors: Prof. Kiyoshi Takami and Prof. Lichen Luo
-- M.S. in Transportation Planning and Management, Dalian University of Technology, 2020 to 2022
-  - Advisor: Prof. Shaopeng Zhong
-- B.S. in Maritime Management, Dalian Maritime University, 2016 to 2020
-  - Advisor: Prof. Yuhui Fu
-
 Research Projects
 ======
 - National Natural Science Foundation of China, General Program (52272308), Bus system diagnosis and proactive optimization based on multi-source heterogeneous data, 2023 to 2026
