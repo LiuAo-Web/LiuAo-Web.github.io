@@ -6,7 +6,7 @@ permalink: /publication/road-congestion-pricing-review
 excerpt: "系统梳理拥堵收费的概念、类型及其对交通系统和土地利用的短期与长期影响，指出收费政策会重塑居民与企业的空间区位选择，并讨论其与共享自动驾驶策略协同优化的潜力。"
 date: 2025-06-01
 venue: "Proceedings of the Institution of Civil Engineers - Transport"
-paperurl: "/files/papers/road-congestion-pricing-review.pdf"
+paperurl: "https://www.sciencedirect.com/org/science/article/abs/pii/S0965092X24000124"
 citation: 'Zhou, X., Zhong, S., Liu, A., Gong, Y., Zhou, H., Li, X., &amp; Li, Z. (2025). Review on road congestion pricing: a long-term land use effect perspective. <i>Proceedings of the Institution of Civil Engineers - Transport, 178</i>(4), 234-244.'
 ---
 

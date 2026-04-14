@@ -6,7 +6,7 @@ permalink: /publication/built-environment-travel-time-variability
 excerpt: "结合全局回归与地理加权回归模型，揭示出租车载客率、交叉口距离、限速、公交站点和学校分布等建成环境因素对道路行程时间的空间异质性影响。"
 date: 2021-01-01
 venue: "Journal of Transportation Engineering, Part A: Systems"
-paperurl: "/files/papers/built-environment-travel-time-variability.pdf"
+paperurl: "https://ascelibrary.org/doi/10.1061/JTEPBS.0000469"
 citation: 'Zhong, S., Wang, Z., Wang, Q., Liu, A., &amp; Cui, J. (2021). Exploring the spatially heterogeneous effects of urban built environment on road travel time variability. <i>Journal of Transportation Engineering, Part A: Systems, 147</i>(1), 04020142.'
 ---
 
