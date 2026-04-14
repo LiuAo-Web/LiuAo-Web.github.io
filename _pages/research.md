@@ -1,13 +1,13 @@
 ---
 layout: single
-title: "Research"
+title: "研究/Research"
 permalink: /research/
 author_profile: true
 ---
 
 My research is centered on how emerging mobility systems reshape cities. I study the interactions among transportation pricing, land use, accessibility, and environmental performance, with a particular focus on shared autonomous vehicles and sustainable urban transport policy.
 
-Research Themes
+研究主题
 ======
 
 Shared autonomous vehicles and pricing policy
@@ -21,18 +21,3 @@ My research examines long-term feedbacks between transport systems and urban for
 Data-driven sustainability analysis
 ------
 I use large-scale and high-resolution data to analyze urban air quality, energy use, and sustainability outcomes. This line of work connects transport planning with environmental assessment and public policy.
-
-Selected Projects
-======
-- Visiting doctoral research at the University of Tokyo on pricing strategies for shared autonomous vehicles under carbon-neutrality goals.
-- NSFC General Program project on proactive optimization of bus systems using multi-source heterogeneous data.
-- Applied Energy study on electric bus charging station locations through an integrated land use-transport framework.
-- Research on urban air quality drivers using large-scale and high-resolution data for sustainable city planning.
-
-Methods and Tools
-======
-- Transportation planning and simulation
-- Accessibility analysis and integrated land use-transport modeling
-- Mathematical optimization and pricing strategy design
-- Geospatial analysis with GIS
-- Environmental and health impact assessment

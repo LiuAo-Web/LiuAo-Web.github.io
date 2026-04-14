@@ -11,7 +11,7 @@ main:
   - title: "主页/Home"
     url: /
 
-  - title: "研究主题/Research Topic"
+  - title: "研究/Research"
     url: /research/
 
   - title: "论文/Publications"
