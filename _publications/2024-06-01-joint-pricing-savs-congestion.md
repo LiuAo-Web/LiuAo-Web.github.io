@@ -6,6 +6,9 @@ permalink: /publication/joint-pricing-savs-congestion
 excerpt: "构建考虑区域可达性的共享自动驾驶汽车与道路拥堵收费联合最优定价双层规划模型，并引入多目标贝叶斯优化算法进行求解，证明最优定价政策可协同提升可达性、降低总流量时间并促进紧凑城市发展。"
 date: 2024-06-01
 venue: "Cities"
+journal_info: "SSCI; JCR Q1, IF=7.0; 中科院1区TOP"
+impact_factor_source: "https://www.sciencedirect.com/journal/cities/about/insights"
+impact_factor_checked: "2026-11-12"
 paperurl: "https://www.sciencedirect.com/science/article/pii/S0264275123005541"
 citation: 'Liu, A., Zhong, S., Sun, D., Gong, Y., Fan, M., &amp; Song, Y. (2024). Joint optimal pricing strategy of shared autonomous vehicles and road congestion pricing: A regional accessibility perspective. <i>Cities, 146</i>, 104742.'
 ---

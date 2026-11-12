@@ -6,6 +6,7 @@ permalink: /publication/shared-autonomous-vehicles-review
 excerpt: "综述共享自动驾驶汽车对交通、土地利用、环境、能源与可达性的多阶影响，指出现有研究长期效应刻画不足，并提出整合模型与数据驱动方法结合的未来方向。"
 date: 2025-06-01
 venue: "华南理工大学学报(自然科学版)"
+journal_info: "EI; 中文核心期刊"
 paperurl: "https://zrb.bjb.scut.edu.cn/CN/abstract/abstract14399.shtml"
 citation: '钟绍鹏, 刘骜, 翟君诺, 范美含, 李茜瑶, 林原, & 李振华. (2025). 共享自动驾驶汽车的多阶城市影响综述. <i>华南理工大学学报(自然科学版), 53</i>(6), 104-118.'
 ---

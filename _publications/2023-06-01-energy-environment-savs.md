@@ -6,6 +6,10 @@ permalink: /publication/energy-environment-savs
 excerpt: "从土地利用与交通整合视角评估不同定价策略下共享自动驾驶汽车的能源与环境效应，发现合理定价可显著降低 PM<sub>2.5</sub> 排放和能耗，电动化将进一步放大减排收益。"
 date: 2023-06-01
 venue: "npj Urban Sustainability"
+journal_info: "SSCI; JCR Q1, IF=10.9; 中科院1区TOP"
+impact_factor_source: "https://www.nature.com/npjurbansustain/journal-impact"
+impact_factor_checked: "2026-11-12"
+impact_factor_year: 2025
 paperurl: "https://www.nature.com/articles/s42949-023-00092-2"
 citation: 'Zhong, S., Liu, A., Jiang, Y., Hu, S., Xiao, F., Huang, H.-J., &amp; Song, Y. (2023). Energy and environmental impacts of shared autonomous vehicles under different pricing strategies. <i>npj Urban Sustainability, 3</i>(1), 8.'
 ---

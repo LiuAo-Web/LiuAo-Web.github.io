@@ -6,6 +6,10 @@ permalink: /publication/urban-air-quality-sustainability
 excerpt: "基于美国 16 个大都市统计区的多源高分辨率数据与可解释机器学习，揭示交通系统对 NO<sub>2</sub> 与 PM<sub>2.5</sub> 的非线性影响机制，并评估燃油税政策的健康与经济效益。"
 date: 2025-09-01
 venue: "Sustainable Cities and Society"
+journal_info: "SCI/EI; JCR Q1, IF=13.3; 中科院1区TOP"
+impact_factor_source: "https://www.sciencedirect.com/journal/sustainable-cities-and-society/about/insights"
+impact_factor_checked: "2026-11-12"
+impact_factor_year: 2025
 paperurl: "https://www.sciencedirect.com/science/article/pii/S2210670725005050"
 citation: 'Liu, A., Zhong, S., Ma, X., Wei, J., &amp; Song, Y. (2025). Disentangling the drivers of urban air quality using large-scale and high-resolution data: Driving towards urban sustainability. <i>Sustainable Cities and Society, 130</i>, 106631.'
 ---

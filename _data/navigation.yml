@@ -8,10 +8,10 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "主页"
+  - title: "主页/Home"
     url: /
 
-  - title: "研究"
+  - title: "研究/Research"
     url: /research/
 
   - title: "论文/Publications"

@@ -6,6 +6,9 @@ permalink: /publication/electric-bus-charging-locations
 excerpt: "构建考虑土地利用与交通互动反馈关系的电动公交充电站选址优化模型，联合优化电动公交车队规模、发车频率与充电站布局，证明最优选址方案可提升公交分担率、可达性并降低拥堵与碳排放。"
 date: 2025-08-01
 venue: "Applied Energy"
+journal_info: "SCI; JCR Q1, IF=12.2; 中科院1区TOP"
+impact_factor_source: "https://www.sciencedirect.com/journal/applied-energy/about/insights"
+impact_factor_checked: "2026-11-12"
 paperurl: "https://www.sciencedirect.com/science/article/pii/S0306261925013790"
 citation: 'Zhong, S., Liu, A., Fan, M., Song, Y., &amp; Jiang, Y. (2025). Optimizing electric bus charging station locations: An integrated land-use and transportation approach. <i>Applied Energy, 401</i>, 126649.'
 ---
