@@ -27,10 +27,10 @@ author:
   name             : "刘骜 (Liu Ao)"
   pronouns         : # example: "she/her"  
   bio              : "博士"
-  location         : ""
-  employer         : ""
+  location         : "江苏淮安"
+  employer         : "淮安大学交通工程学院"
   uri              : # URL
-  email            : "liu_ao@mail.dlut.edu.cn"
+  email            : "liuaowork@hau.edu.cn"
 
   # Academic websites
   academia         : # URL
@@ -166,6 +166,9 @@ include:
   - _pages
   - files
 exclude:
+  # Keep CV sources locally while the public CV pages are paused.
+  - _pages/cv.md
+  - _pages/cv-json.md
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache

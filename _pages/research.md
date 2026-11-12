@@ -1,23 +1,23 @@
 ---
 layout: single
-title: "研究/Research"
+title: "研究"
 permalink: /research/
 author_profile: true
 ---
 
-My research is centered on how emerging mobility systems reshape cities. I study the interactions among transportation pricing, land use, accessibility, and environmental performance, with a particular focus on shared autonomous vehicles and sustainable urban transport policy.
+我的研究关注新型出行系统如何重塑城市，重点探讨交通定价、土地利用、可达性与环境绩效之间的相互作用，尤其关注共享自动驾驶汽车及可持续城市交通政策。
 
 研究主题
 ======
 
-Shared autonomous vehicles and pricing policy
+共享自动驾驶汽车与定价政策
 ------
-I investigate how pricing strategies for shared autonomous vehicles interact with road congestion pricing, accessibility, and traveler behavior. This work explores how pricing can improve efficiency while avoiding unintended environmental or spatial side effects.
+我研究共享自动驾驶汽车的定价策略与道路拥堵收费、可达性及出行者行为之间的相互作用，探索如何通过合理定价提高交通系统效率，同时避免对环境和城市空间布局产生非预期的不利影响。
 
-Integrated land use-transport planning
+土地利用与交通整合规划
 ------
-My research examines long-term feedbacks between transport systems and urban form. I am interested in how policy interventions such as congestion pricing, charging infrastructure deployment, and autonomous mobility services influence land use and regional accessibility.
+我研究交通系统与城市形态之间的长期反馈关系，关注拥堵收费、充电基础设施布局和自动驾驶出行服务等政策与措施如何影响土地利用和区域可达性。
 
-Data-driven sustainability analysis
+数据驱动的可持续性分析
 ------
-I use large-scale and high-resolution data to analyze urban air quality, energy use, and sustainability outcomes. This line of work connects transport planning with environmental assessment and public policy.
+我利用大规模、高分辨率数据分析城市空气质量、能源消耗及可持续发展成效，将交通规划与环境评估、公共政策研究相结合。
