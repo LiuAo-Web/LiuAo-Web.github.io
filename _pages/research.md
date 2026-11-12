@@ -31,7 +31,7 @@ author_profile: true
 城市不同性质的土地利用在空间中的彼此分离是产生交通需求的根源。而城市交通系统反过来又是影响城市土地利用的一个重要因素。城市交通与土地利用之间存在着极为复杂的相互影响、制约关系，这种关系构成了土地利用、可达性、交通设施以及交通需求间的“螺旋式”互动机制。然而，现有的交通规划模型和方法往往被动的服务于既定的土地利用规划，缺少两者间的反馈机制，使现有的规划成果往往具有一定的局限性。为此，本方向关注城市土地利用和交通间的互动反馈关系，从土地利用和交通整合的角度，丰富和拓展现有的交通规划理论、模型和方法。
 
 <figure class="research-figure">
-  <img src="{{ '/images/research/land-use-feedback.webp' | relative_url }}" alt="土地利用、可达性与交通需求的互动反馈关系" width="1852" height="2400" loading="lazy" decoding="async">
+  <img src="{{ '/images/research/land-use-transport-feedback-cycle.webp' | relative_url }}" alt="土地利用与交通的互动反馈循环" width="2000" height="2000" loading="lazy" decoding="async">
 </figure>
 
 机器学习与交通系统优化

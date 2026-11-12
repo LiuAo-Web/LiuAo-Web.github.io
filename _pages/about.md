@@ -11,7 +11,7 @@ redirect_from:
 
 目前重点关注自动驾驶汽车、低空经济，以及城市空间结构演化及其交通与环境效应。
 
-**学术成果**：在*Sustainable Cities and Society*, *Applied Energy*, *npj Urban Sustainability*, *Cities*等国际和国内交通与城市规划领域顶级/主流期刊上发表论文8篇，其中被SCI/SSCI/EI收录7篇（**中科院1区TOP期刊4篇**），主要成果被大工官网转载报道。
+**学术成果**：在***Sustainable Cities and Society***, ***Applied Energy***, ***npj Urban Sustainability***, ***Cities***等国际和国内交通与城市规划领域顶级/主流期刊上发表论文8篇，其中被SCI/SSCI/EI收录7篇（**中科院1区TOP期刊4篇**），主要成果被大工官网转载报道。
 
 **科研获奖**：成果获钱学森城市学（交通）金奖提名奖、辽宁省大学生交通科技大赛二等奖等奖励。
 
