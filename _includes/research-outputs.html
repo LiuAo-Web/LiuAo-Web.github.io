@@ -1,6 +1,6 @@
 {% assign output_paths = include.publications | split: "|" %}
 <div class="research-outputs">
-  <h3>代表性成果</h3>
+  <h3>代表性成果/Selected Publications</h3>
   <ul>
     {% for output_path in output_paths %}
       {% assign output_publication = site.publications | where: "permalink", output_path | first %}
