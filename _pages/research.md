@@ -18,7 +18,7 @@ author_profile: true
   <img src="{{ '/images/research/sav-sustainability.webp' | relative_url }}" alt="共享自动驾驶汽车定价与土地利用、交通和环境效应评估框架" width="2000" height="1246" loading="lazy" decoding="async">
 </figure>
 
-{% include research-outputs.html publications="/publication/shared-autonomous-vehicles-review|/publication/joint-pricing-savs-congestion|/publication/energy-environment-savs" %}
+{% include research-outputs.html publications="/publication/energy-environment-savs|/publication/shared-autonomous-vehicles-review" %}
 
 <hr class="research-divider">
 
@@ -30,7 +30,7 @@ author_profile: true
   <img src="{{ '/images/research/data-method.webp' | relative_url }}" alt="融合多源数据、机器学习与环境评估的空气质量预测技术路线" width="1865" height="2400" loading="lazy" decoding="async">
 </figure>
 
-{% include research-outputs.html publications="/publication/urban-air-quality-sustainability|/publication/bus-diagnosis-review|/publication/built-environment-travel-time-variability" %}
+{% include research-outputs.html publications="/publication/urban-air-quality-sustainability|/publication/built-environment-travel-time-variability|/publication/bus-diagnosis-review" %}
 
 <hr class="research-divider">
 
@@ -42,7 +42,7 @@ author_profile: true
   <img src="{{ '/images/research/land-use-transport-feedback-cycle.webp' | relative_url }}" alt="土地利用与交通的互动反馈循环" width="2000" height="2000" loading="lazy" decoding="async">
 </figure>
 
-{% include research-outputs.html publications="/publication/electric-bus-charging-locations|/publication/road-congestion-pricing-review|/publication/joint-pricing-savs-congestion" %}
+{% include research-outputs.html publications="/publication/road-congestion-pricing-review" %}
 
 <hr class="research-divider">
 
@@ -54,4 +54,4 @@ author_profile: true
   <img src="{{ '/images/research/bus-charging.webp' | relative_url }}" alt="电动公交充电站选址与土地利用交通一体化优化框架" width="1722" height="2400" loading="lazy" decoding="async">
 </figure>
 
-{% include research-outputs.html publications="/publication/urban-air-quality-sustainability|/publication/electric-bus-charging-locations|/publication/joint-pricing-savs-congestion" %}
+{% include research-outputs.html publications="/publication/electric-bus-charging-locations|/publication/joint-pricing-savs-congestion" %}
