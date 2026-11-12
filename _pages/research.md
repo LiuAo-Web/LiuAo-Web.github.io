@@ -18,6 +18,10 @@ author_profile: true
   <img src="{{ '/images/research/sav-sustainability.webp' | relative_url }}" alt="共享自动驾驶汽车定价与土地利用、交通和环境效应评估框架" width="2000" height="1246" loading="lazy" decoding="async">
 </figure>
 
+{% include research-outputs.html publications="/publication/shared-autonomous-vehicles-review|/publication/joint-pricing-savs-congestion|/publication/energy-environment-savs" %}
+
+<hr class="research-divider">
+
 逻辑驱动的多源交通大数据分析
 ------
 多源交通数据为识别出行规律、诊断系统问题与评估政策效应提供了丰富信息，但不同数据在时空尺度、覆盖范围和观测对象上的差异，以及数据关联与行为机制之间的脱节，可能影响分析结果的可靠性。本方向以交通运行规律和出行行为逻辑为基础，整合交通、土地利用、人口与环境等数据，研究多源信息融合、时空异质性及关键因素之间的交互关系，结合统计分析与可解释机器学习，服务于交通需求识别、公交问题诊断和环境效应评估。
@@ -25,6 +29,10 @@ author_profile: true
 <figure class="research-figure">
   <img src="{{ '/images/research/data-method.webp' | relative_url }}" alt="融合多源数据、机器学习与环境评估的空气质量预测技术路线" width="1865" height="2400" loading="lazy" decoding="async">
 </figure>
+
+{% include research-outputs.html publications="/publication/urban-air-quality-sustainability|/publication/bus-diagnosis-review|/publication/built-environment-travel-time-variability" %}
+
+<hr class="research-divider">
 
 土地利用和交通整合规划
 ------
@@ -34,6 +42,10 @@ author_profile: true
   <img src="{{ '/images/research/land-use-transport-feedback-cycle.webp' | relative_url }}" alt="土地利用与交通的互动反馈循环" width="2000" height="2000" loading="lazy" decoding="async">
 </figure>
 
+{% include research-outputs.html publications="/publication/electric-bus-charging-locations|/publication/road-congestion-pricing-review|/publication/joint-pricing-savs-congestion" %}
+
+<hr class="research-divider">
+
 机器学习与交通系统优化
 ------
 交通系统中的定价、设施布局与运营决策通常涉及多目标、非线性和复杂反馈，部分决策效果需要借助计算成本较高的仿真模型评估，给优化求解带来挑战。为此，本方向重点研究复杂输入与系统响应之间的映射关系，利用贝叶斯优化算法、大语言模型等多目标优化方法，提高求解效率与解的质量。围绕共享自动驾驶汽车定价、公交充电设施布局等问题，提出了一系列兼顾可达性、运行成本与环境效益的决策方法。
@@ -41,3 +53,5 @@ author_profile: true
 <figure class="research-figure">
   <img src="{{ '/images/research/bus-charging.webp' | relative_url }}" alt="电动公交充电站选址与土地利用交通一体化优化框架" width="1722" height="2400" loading="lazy" decoding="async">
 </figure>
+
+{% include research-outputs.html publications="/publication/urban-air-quality-sustainability|/publication/electric-bus-charging-locations|/publication/joint-pricing-savs-congestion" %}

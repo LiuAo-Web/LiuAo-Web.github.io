@@ -1,0 +1,13 @@
+{% assign output_paths = include.publications | split: "|" %}
+<div class="research-outputs">
+  <h3>代表性成果</h3>
+  <ul>
+    {% for output_path in output_paths %}
+      {% assign output_publication = site.publications | where: "permalink", output_path | first %}
+      {% if output_publication %}
+        {% capture output_link %}<a href="{{ output_publication.paperurl | escape }}">{{ output_publication.title | escape }}</a>{% endcapture %}
+        <li>{{ output_publication.citation | replace: output_publication.title, output_link }}</li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>
