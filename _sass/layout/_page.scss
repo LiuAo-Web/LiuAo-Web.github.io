@@ -399,3 +399,19 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+
+/* Research diagrams retain their full aspect ratio on every screen size. */
+.research-figure {
+  display: block;
+  margin: 1.5em 0 2.5em;
+
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    background: #fff;
+    border-radius: 0;
+  }
+}
