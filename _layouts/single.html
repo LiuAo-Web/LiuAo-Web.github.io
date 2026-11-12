@@ -44,7 +44,7 @@ layout: default
         </header>
       {% endunless %}
 
-      <section class="page__content" itemprop="text">
+      <section class="page__content{% if page.content_class %} {{ page.content_class }}{% endif %}" itemprop="text">
         {{ content }}
 
         {% if page.collection == 'publications' %}
