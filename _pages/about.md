@@ -2,7 +2,6 @@
 permalink: /
 title: "个人简介/About Me"
 author_profile: true
-content_class: home-compact
 redirect_from:
   - /about/
   - /about.html
